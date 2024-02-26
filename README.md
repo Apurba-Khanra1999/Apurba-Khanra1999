@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Skills.<br>🌱 I’m currently learning more about  Java , AI , ML , Data Science.<br>🤔 I’m looking for help with Exploring New Technologies.<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - apurbakhanra1999@gmail.com
+🔭 I’m currently working on my Skills.<br>🌱 I’m currently learning more about  Flutter , App development , AI , ML , Data Science.<br>🤔 I’m looking for help with Exploring New Technologies.<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - apurbakhanra1999@gmail.com
 
 
 ## 🌐 Socials:
@@ -21,5 +21,5 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/apurba) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/X8X8F8G89) 
 
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  
   
