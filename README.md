@@ -1,6 +1,16 @@
-<!-- Header Banner -->
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://i.ibb.co/jv2M7vR/github-banner.png" alt="Apurba Khanra Banner" />
+</p>
+
 <h1 align="center">👋 Hey there, I'm Apurba Khanra</h1>
 <h3 align="center">A Passionate Developer | Learner | Tech Enthusiast</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="60" />
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="60" />
+</p>
 
 ---
 
