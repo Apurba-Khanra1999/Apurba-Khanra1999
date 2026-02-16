@@ -9,7 +9,7 @@
 - 🌱 Exploring more about **Flutter, App Development, AI, ML, and Data Science**.  
 - 🤝 Open to collaborating on **exciting tech projects** and learning new things.  
 - 💬 Ask me about **anything tech-related** — I love sharing knowledge.  
-- 📫 Reach me at: **apurbakhanra1999@gmail.com**
+- 📫 Reach me at: **dev.apurba@hotmail.com**
 
 ---
 
